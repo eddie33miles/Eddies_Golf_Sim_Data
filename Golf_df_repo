@@ -1,0 +1,9 @@
+•	/data — your actual golf_df.csv or .pkl or whatever format
+	•	/notebooks — Jupyter Notebooks for your visualizations, EDA, or modeling
+	•	/scripts — Python scripts (e.g., functions to clean, update, or model data)
+	•	/images — saved plots or figures (if you’re showing them in the README or elsewhere)
+	•	README.md — the front-facing documentation
+	•	.gitignore — to ignore .ipynb_checkpoints, .DS_Store, etc.
+	•	LICENSE — pick one (e.g., MIT, GPL-3.0) if you want to open source it
+	•	requirements.txt — pip freeze or manually list needed packages
+	•	Optional: environment.yml if you’re using Conda
